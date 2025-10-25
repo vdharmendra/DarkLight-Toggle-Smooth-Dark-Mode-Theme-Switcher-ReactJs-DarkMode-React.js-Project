@@ -5,7 +5,7 @@ This project demonstrates how to implement **light/dark theme switching** using 
 
 ---
 ## View Project ##
-<a href="https://vdharmendra.github.io/BIM-CALC-React-App/">View Project on browser</a>
+<a href="https://vdharmendra.github.io/DarkLight-Toggle-Smooth-Dark-Mode-Theme-Switcher-ReactJs-DarkMode-React.js-Project/">View Project on browser</a>
 
 - 
 👨‍💻 Author
