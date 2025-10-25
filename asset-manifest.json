@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DarkLight-Toggle-Smooth-Dark-Mode-Theme-Switcher-ReactJs-DarkMode-React.js-Project/static/css/main.8bae9c9a.css",
+    "main.js": "/DarkLight-Toggle-Smooth-Dark-Mode-Theme-Switcher-ReactJs-DarkMode-React.js-Project/static/js/main.bd039855.js",
+    "static/media/logo.svg": "/DarkLight-Toggle-Smooth-Dark-Mode-Theme-Switcher-ReactJs-DarkMode-React.js-Project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Sun.svg": "/DarkLight-Toggle-Smooth-Dark-Mode-Theme-Switcher-ReactJs-DarkMode-React.js-Project/static/media/Sun.681607dcda2a01539a9a8a157ae74e6e.svg",
+    "index.html": "/DarkLight-Toggle-Smooth-Dark-Mode-Theme-Switcher-ReactJs-DarkMode-React.js-Project/index.html",
+    "static/media/Moon.svg": "/DarkLight-Toggle-Smooth-Dark-Mode-Theme-Switcher-ReactJs-DarkMode-React.js-Project/static/media/Moon.0a6a2b75ac51157455302ddcfca385c0.svg",
+    "main.8bae9c9a.css.map": "/DarkLight-Toggle-Smooth-Dark-Mode-Theme-Switcher-ReactJs-DarkMode-React.js-Project/static/css/main.8bae9c9a.css.map",
+    "main.bd039855.js.map": "/DarkLight-Toggle-Smooth-Dark-Mode-Theme-Switcher-ReactJs-DarkMode-React.js-Project/static/js/main.bd039855.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bae9c9a.css",
+    "static/js/main.bd039855.js"
+  ]
+}
